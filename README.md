@@ -1,6 +1,6 @@
-
+Wallet App 
 Assets
-* [icon8](https://icons8.com)
+
 
 
 ## Screenshots
@@ -14,7 +14,7 @@ Assets
 ### Send Money Page
 <img src="assets/screenshot/send-money-page.png" />
 
-### Contact Page
+### Drower 
 <img src="assets/screenshot/drawer.png" />
 
 
